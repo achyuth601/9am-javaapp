@@ -1,1 +1,1 @@
-this is my java application
+This is my java application
